@@ -1,0 +1,2 @@
+print("\n********************************************\n\n \t\t  Menu \t\t \n\n********************************************\n\t1.Tom Yam Kung\n\t2.American Fried Rice\n\t3. Sukki (Thai \\ Hongkong)\n\tExit \n********************************************\nSelect Menu :")
+print("Make By Nattawatt Hongthong")
